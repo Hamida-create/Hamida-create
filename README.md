@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hey, I'm Hamida!
 
-<!--
-**Hamida-create/Hamida-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pharmacy student  
+💻 Currently learning: Python, Scientific Computing, AI  
+🧠 I love solving problems and fixing bugs (even if they fight me first 😤)  
+🌱 I’m growing my skills to combine tech & health  
+💡 Fun fact: I talk to my errors like they’re people
 
-Here are some ideas to get you started:
+### 📚 What I'm working on:
+- Scientific Computing with Python
+- Coding Foundations
+- AI projects (coming soon 👀)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Let's connect!
+I’m just getting started, but excited to grow 💅
+
