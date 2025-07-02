@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Hamida!
 
-🎓 Pharmacy student  
+🎓 UM6P Pharmacy student  
 💻 Currently learning: Python, Scientific Computing, AI  
 🧠 I love solving problems and fixing bugs (even if they fight me first 😤)  
 🌱 I’m growing my skills to combine tech & health  
